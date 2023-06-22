@@ -1,5 +1,5 @@
 # Portfolio_
-All files of my protfolio
+This is my portfolio of data analyst profiles.
 
-This is repository of all of my projects on my protfolio link
-shreyashchacharkar.carrd.co
+This is a repository of all of my projects on my portfolio [link]
+(shreyashchacharkar.carrd.co)
